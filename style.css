@@ -1,0 +1,22 @@
+.domElements
+{
+    position: fixed;
+    right: 0;
+    top: 0;
+    display: grid;
+    margin: 0;
+    padding: 0;
+}
+
+.countries
+{
+    width: 100px;
+}
+body
+{    
+    padding: 0;
+    margin: 0;
+    color: #FFF;
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
